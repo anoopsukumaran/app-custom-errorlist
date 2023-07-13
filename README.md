@@ -1,5 +1,8 @@
 # app-custom-errorlist
 
+author : anoopsukumaran
+date   : 07/13/2023
+
 It's a sample Springboot application that validates and returns a custom error list with error code and error message.
 
 ![image](https://github.com/anoopsukumaran/app-custom-errorlist/assets/31379606/7ef27743-9d8b-42b0-a508-8d1c134b22e6)
