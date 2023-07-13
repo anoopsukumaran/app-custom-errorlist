@@ -1,7 +1,8 @@
 # app-custom-errorlist
 
-author : anoopsukumaran
-date   : 07/13/2023
+<b>author</b> : anoopsukumaran </br>
+<b>date</b>   : 07/13/2023 </br>
+<b>github</b> : https://github.com/anoopsukumaran
 
 It's a sample Springboot application that validates and returns a custom error list with error code and error message.
 
